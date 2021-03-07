@@ -6,10 +6,6 @@ filename: index.md
 
 - - - -
 
-
-
-- - - -
-
 # LANDING PAGE
 
 - - - -
