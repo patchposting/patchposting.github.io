@@ -6,7 +6,7 @@ filename: index.md
 
 - - - -
 
-[❮ LANDING PAGE](index.md)
+
 
 - - - -
 
