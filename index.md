@@ -10,6 +10,6 @@ filename: index.md
 
 - - - -
 
-[❯ MAGPUPPY'S RESEARCH](https://patchposting.github.io/research/)
+[❯ RESEARCH](https://patchposting.github.io/research/)
 
 - - - -
