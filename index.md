@@ -1,3 +1,13 @@
+---
+title: index
+layout: template
+filename: index.md
+---
+
+- - - -
+
+[❮ LANDING PAGE](index.md)
+
 - - - -
 
 # LANDING PAGE
